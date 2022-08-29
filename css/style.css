@@ -66,3 +66,28 @@ tr:nth-child(odd) {
     background-color: lightskyblue;
 }
 
+h3 {
+    color: grey;
+    margin-top: 35px;
+}
+
+#suggerimento-1 {
+    background-image: url(/img/monitor.jpg);
+    background-size: contain;
+    width: 250px;
+    height: 200px;
+}
+
+.testo-suggerimento {
+    font-size: 25px;
+    color: white;
+    padding: 10px;
+}
+
+#suggerimento-2 {
+    background-image: url(/img/graph.jpg);
+    background-size: contain;
+    width: 250px;
+    height: 200px;
+    margin-top: 15px;
+}
