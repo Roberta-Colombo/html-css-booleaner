@@ -27,3 +27,12 @@ header {
 h1 {
     margin-bottom: 5px;
 }
+
+.didascalia {
+    font-size: 12px;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
