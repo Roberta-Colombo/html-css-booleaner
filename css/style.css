@@ -4,8 +4,26 @@ header {
     background-color: rgb(0, 162, 255);
 }
 
-#booleaner-logo{
+#booleaner-logo {
     margin-top: 40px;
     margin-bottom: 5px;
     margin-left: 10px;
+}
+
+.scritto-da {
+    font-size: 18px;
+    color: grey;
+}
+
+#autore {
+    color: rgb(0, 162, 255);
+}
+
+.data {
+    font-size: 12px;
+    color: grey;  
+}
+
+h1 {
+    margin-bottom: 5px;
 }
